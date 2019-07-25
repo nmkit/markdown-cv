@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: T's CV
+title: Terry NG's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Terry NG
+XXX.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
